@@ -1,0 +1,14 @@
+
+body {background-color: pink; border-style: dotted;
+}
+
+p{
+	color:blue;
+}
+
+h1{
+  color:red;
+  text-align: center;
+  font-size: 20px;
+  font-family: serif;
+}
