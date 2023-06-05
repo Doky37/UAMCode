@@ -1,0 +1,28 @@
+div{width:50%;
+		height: 300px;
+		margin: 20px;
+		border:10px;
+		border-style:dashed;
+		border-width: 10px;
+		border-color: #021331;
+		color: #010a88;
+		font-style: courier new ,monospace;
+		padding: 20px;
+		background-color: blue;
+}
+
+	.div2 {
+		width:25%;
+		height: 50px;
+		margin: 30px;
+		border:10px;
+		border-style:dashed;
+		border-width: 10px;
+		border-color: #021331;
+		color: #010a88;
+		font-style: "courier new" ,monospace;
+		padding: 20px;
+		background-color:red ;
+
+	}
+	body{background-color: #cedffd;}
